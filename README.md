@@ -61,5 +61,6 @@
   - XP
     - https://www.makeuseof.com/tag/5-tips-to-help-you-reset-a-forgotten-windows-xp-password/
     - Vista, 2008, 7, 2008 R2, 8, 2012, 8.1, 2012 R2, 10, 2016, 2019
-- MAC OSX
-  - http://osxdaily.com/2011/08/24/reset-mac-os-x-10-7-lion-password/
+- Apple
+  - Mac OS X Mavericks / Mountain Lion
+    - http://osxdaily.com/2011/08/24/reset-mac-os-x-10-7-lion-password/
