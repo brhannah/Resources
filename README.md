@@ -51,13 +51,15 @@
     - http://www.src.wits.ac.za/groups/psi/linux/rhl-cg-en-8.0/s1-rescuemode-booting-single.html
   - RHEL 9? (GRUB and LILO)
     - https://www.linux.co.cr/distributions/review/2003/red-hat-9/rhl-cg/s1-rescuemode-booting-single.html
-  - Debian Based OS
-  - BSD Based OS
-  - Sun OS / Solaris
-  - Windows
-    - 2000, XP, 2003, 2003 R2, Vista, 2008, 7, 2008 R2, 8, 2012, 8.1, 2012 R2, 10, 2016, 2019
-      - Use Hiren's Boot CD to run Kon-Boot (32-bit OS only)
-      - https://www.hirensbootcd.org/hbcd-v106/
-    - XP
-      - https://www.makeuseof.com/tag/5-tips-to-help-you-reset-a-forgotten-windows-xp-password/
+- Debian Based OS
+- BSD Based OS
+- Sun OS / Solaris
+- Windows
+  - 2000, XP, 2003, 2003 R2, Vista, 2008, 7, 2008 R2, 8, 2012, 8.1, 2012 R2, 10, 2016, 2019
+    - Use Hiren's Boot CD to run Kon-Boot (32-bit OS only)
+    - https://www.hirensbootcd.org/hbcd-v106/
+  - XP
+    - https://www.makeuseof.com/tag/5-tips-to-help-you-reset-a-forgotten-windows-xp-password/
     - Vista, 2008, 7, 2008 R2, 8, 2012, 8.1, 2012 R2, 10, 2016, 2019
+- MAC OSX
+  - http://osxdaily.com/2011/08/24/reset-mac-os-x-10-7-lion-password/
